@@ -1,0 +1,319 @@
+25/05/2017 19:32:25>  websocket daemon 27932 running .... 
+
+25/05/2017 19:32:25>  websocket starting up .... 
+25/05/2017 19:32:25>  Server listening and accepting connections ..
+
+25/05/2017 19:32:26>  Handshake su socket 8
+
+25/05/2017 19:32:26>  From 151.65.175.203 58402 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:32:26>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:32:26>  header Connection: Upgrade
+25/05/2017 19:32:26>  header Pragma: no-cache
+25/05/2017 19:32:26>  header Cache-Control: no-cache
+25/05/2017 19:32:26>  header Upgrade: websocket
+25/05/2017 19:32:26>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:32:26>  header Sec-WebSocket-Version: 13
+25/05/2017 19:32:26>  header User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36
+25/05/2017 19:32:26>  header Accept-Encoding: gzip, deflate, sdch
+25/05/2017 19:32:26>  header Accept-Language: it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4
+25/05/2017 19:32:26>  header Sec-WebSocket-Key: SemA4tAVbD3d0qbXnCteJQ==
+25/05/2017 19:32:26>  header Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+25/05/2017 19:32:26>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:32:26>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:32:26>  Upgrade: websocket
+
+25/05/2017 19:32:26>  Connection: Upgrade
+
+25/05/2017 19:32:26>  Sec-WebSocket-Accept: 6NadT2pdw95okYOAsjWBOIQ/fG0=
+
+25/05/2017 19:32:52>  Handshake su socket 10
+
+25/05/2017 19:32:53>  From 151.65.175.203 58521 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:32:53>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:32:53>  header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:53.0) Gecko/20100101 Firefox/53.0
+25/05/2017 19:32:53>  header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+25/05/2017 19:32:53>  header Accept-Language: en-US,en;q=0.5
+25/05/2017 19:32:53>  header Accept-Encoding: gzip, deflate
+25/05/2017 19:32:53>  header Sec-WebSocket-Version: 13
+25/05/2017 19:32:53>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:32:53>  header Sec-WebSocket-Extensions: permessage-deflate
+25/05/2017 19:32:53>  header Sec-WebSocket-Key: 2cgCTMdrINkHzg/qGa3Wuw==
+25/05/2017 19:32:53>  header DNT: 1
+25/05/2017 19:32:53>  header Connection: keep-alive, Upgrade
+25/05/2017 19:32:53>  header Pragma: no-cache
+25/05/2017 19:32:53>  header Cache-Control: no-cache
+25/05/2017 19:32:53>  header Upgrade: websocket
+25/05/2017 19:32:53>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:32:53>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:32:53>  Upgrade: websocket
+
+25/05/2017 19:32:53>  Connection: Upgrade
+
+25/05/2017 19:32:53>  Sec-WebSocket-Accept: mvgKoWJjW/F/2taZgQYetoiS9vk=
+
+25/05/2017 19:33:00>  socket 8 disconnesso 
+
+25/05/2017 19:33:02>  Handshake su socket 8
+
+25/05/2017 19:33:02>  From 151.65.175.203 58568 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:33:02>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:33:02>  header Connection: Upgrade
+25/05/2017 19:33:02>  header Pragma: no-cache
+25/05/2017 19:33:02>  header Cache-Control: no-cache
+25/05/2017 19:33:02>  header Upgrade: websocket
+25/05/2017 19:33:02>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:33:02>  header Sec-WebSocket-Version: 13
+25/05/2017 19:33:02>  header User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36
+25/05/2017 19:33:02>  header Accept-Encoding: gzip, deflate, sdch
+25/05/2017 19:33:02>  header Accept-Language: it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4
+25/05/2017 19:33:02>  header Sec-WebSocket-Key: zZjUruacR7JjbA3dabGxXg==
+25/05/2017 19:33:02>  header Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+25/05/2017 19:33:02>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:33:02>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:33:02>  Upgrade: websocket
+
+25/05/2017 19:33:02>  Connection: Upgrade
+
+25/05/2017 19:33:02>  Sec-WebSocket-Accept: 8i/G3mCO6lJj25Th7ubV4wAW9Bw=
+
+25/05/2017 19:33:13>  socket 8 disconnesso 
+
+25/05/2017 19:39:11>  socket 10 disconnesso 
+
+25/05/2017 19:39:12>  Handshake su socket 8
+
+25/05/2017 19:39:12>  From 151.65.175.203 58651 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:39:12>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:39:12>  header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:53.0) Gecko/20100101 Firefox/53.0
+25/05/2017 19:39:12>  header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+25/05/2017 19:39:12>  header Accept-Language: en-US,en;q=0.5
+25/05/2017 19:39:12>  header Accept-Encoding: gzip, deflate
+25/05/2017 19:39:12>  header Sec-WebSocket-Version: 13
+25/05/2017 19:39:12>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:39:12>  header Sec-WebSocket-Extensions: permessage-deflate
+25/05/2017 19:39:12>  header Sec-WebSocket-Key: DGIihzB+orYrkCs22x1UEw==
+25/05/2017 19:39:12>  header DNT: 1
+25/05/2017 19:39:12>  header Connection: keep-alive, Upgrade
+25/05/2017 19:39:12>  header Pragma: no-cache
+25/05/2017 19:39:12>  header Cache-Control: no-cache
+25/05/2017 19:39:12>  header Upgrade: websocket
+25/05/2017 19:39:12>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:39:12>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:39:12>  Upgrade: websocket
+
+25/05/2017 19:39:12>  Connection: Upgrade
+
+25/05/2017 19:39:12>  Sec-WebSocket-Accept: meuwJZY1sczO5MOOspbwJoxgBQ4=
+
+25/05/2017 19:39:47>  socket 8 disconnesso 
+
+25/05/2017 19:39:49>  Handshake su socket 8
+
+25/05/2017 19:39:49>  From 151.65.175.203 58658 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:39:49>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:39:49>  header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:53.0) Gecko/20100101 Firefox/53.0
+25/05/2017 19:39:49>  header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+25/05/2017 19:39:49>  header Accept-Language: en-US,en;q=0.5
+25/05/2017 19:39:49>  header Accept-Encoding: gzip, deflate
+25/05/2017 19:39:49>  header Sec-WebSocket-Version: 13
+25/05/2017 19:39:49>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:39:49>  header Sec-WebSocket-Extensions: permessage-deflate
+25/05/2017 19:39:49>  header Sec-WebSocket-Key: fZOo9hNgjH74xJSNFlaldQ==
+25/05/2017 19:39:49>  header DNT: 1
+25/05/2017 19:39:49>  header Connection: keep-alive, Upgrade
+25/05/2017 19:39:49>  header Pragma: no-cache
+25/05/2017 19:39:49>  header Cache-Control: no-cache
+25/05/2017 19:39:49>  header Upgrade: websocket
+25/05/2017 19:39:49>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:39:49>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:39:49>  Upgrade: websocket
+
+25/05/2017 19:39:49>  Connection: Upgrade
+
+25/05/2017 19:39:49>  Sec-WebSocket-Accept: sz406oXlhOKxmoOKHGQMslRcez8=
+
+25/05/2017 19:41:37>  socket 8 disconnesso 
+
+25/05/2017 19:41:38>  Handshake su socket 8
+
+25/05/2017 19:41:38>  From 151.65.175.203 58666 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:41:38>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:41:38>  header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:53.0) Gecko/20100101 Firefox/53.0
+25/05/2017 19:41:38>  header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+25/05/2017 19:41:38>  header Accept-Language: en-US,en;q=0.5
+25/05/2017 19:41:38>  header Accept-Encoding: gzip, deflate
+25/05/2017 19:41:38>  header Sec-WebSocket-Version: 13
+25/05/2017 19:41:38>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:41:38>  header Sec-WebSocket-Extensions: permessage-deflate
+25/05/2017 19:41:38>  header Sec-WebSocket-Key: b/TQaLTt0BUVQyj9hAzffw==
+25/05/2017 19:41:38>  header DNT: 1
+25/05/2017 19:41:38>  header Connection: keep-alive, Upgrade
+25/05/2017 19:41:38>  header Pragma: no-cache
+25/05/2017 19:41:38>  header Cache-Control: no-cache
+25/05/2017 19:41:38>  header Upgrade: websocket
+25/05/2017 19:41:38>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:41:38>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:41:38>  Upgrade: websocket
+
+25/05/2017 19:41:38>  Connection: Upgrade
+
+25/05/2017 19:41:38>  Sec-WebSocket-Accept: 4fI8JzKe17Ml1o5eTDkHVnAnTWE=
+
+25/05/2017 19:42:32>  Handshake su socket 10
+
+25/05/2017 19:42:32>  From 151.65.175.203 58763 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:42:32>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:42:32>  header Connection: Upgrade
+25/05/2017 19:42:32>  header Pragma: no-cache
+25/05/2017 19:42:32>  header Cache-Control: no-cache
+25/05/2017 19:42:32>  header Upgrade: websocket
+25/05/2017 19:42:32>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:42:32>  header Sec-WebSocket-Version: 13
+25/05/2017 19:42:32>  header User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36
+25/05/2017 19:42:32>  header Accept-Encoding: gzip, deflate, sdch
+25/05/2017 19:42:32>  header Accept-Language: it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4
+25/05/2017 19:42:32>  header Sec-WebSocket-Key: 579U4dJONM5YvgpLuF647w==
+25/05/2017 19:42:32>  header Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+25/05/2017 19:42:32>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:42:32>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:42:32>  Upgrade: websocket
+
+25/05/2017 19:42:32>  Connection: Upgrade
+
+25/05/2017 19:42:32>  Sec-WebSocket-Accept: oTfI04cBewG9cDUkMNXKKjSz9lg=
+
+25/05/2017 19:44:21>  socket 8 disconnesso 
+
+25/05/2017 19:44:22>  Handshake su socket 8
+
+25/05/2017 19:44:22>  From 151.65.175.203 59179 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:44:22>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:44:22>  header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:53.0) Gecko/20100101 Firefox/53.0
+25/05/2017 19:44:22>  header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+25/05/2017 19:44:22>  header Accept-Language: en-US,en;q=0.5
+25/05/2017 19:44:22>  header Accept-Encoding: gzip, deflate
+25/05/2017 19:44:22>  header Sec-WebSocket-Version: 13
+25/05/2017 19:44:22>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:44:22>  header Sec-WebSocket-Extensions: permessage-deflate
+25/05/2017 19:44:22>  header Sec-WebSocket-Key: Pfqt9+hOUda7nkaGEmmeXA==
+25/05/2017 19:44:22>  header DNT: 1
+25/05/2017 19:44:22>  header Connection: keep-alive, Upgrade
+25/05/2017 19:44:22>  header Pragma: no-cache
+25/05/2017 19:44:22>  header Cache-Control: no-cache
+25/05/2017 19:44:22>  header Upgrade: websocket
+25/05/2017 19:44:22>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:44:22>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:44:22>  Upgrade: websocket
+
+25/05/2017 19:44:22>  Connection: Upgrade
+
+25/05/2017 19:44:22>  Sec-WebSocket-Accept: Nn/cWjDwL2eJVJJ9dZxN16kwt3U=
+
+25/05/2017 19:44:30>  socket 8 disconnesso 
+
+25/05/2017 19:44:43>  Handshake su socket 8
+
+25/05/2017 19:44:43>  From 151.65.175.203 59268 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:44:43>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:44:43>  header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:53.0) Gecko/20100101 Firefox/53.0
+25/05/2017 19:44:43>  header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+25/05/2017 19:44:43>  header Accept-Language: en-US,en;q=0.5
+25/05/2017 19:44:43>  header Accept-Encoding: gzip, deflate
+25/05/2017 19:44:43>  header Sec-WebSocket-Version: 13
+25/05/2017 19:44:43>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:44:43>  header Sec-WebSocket-Extensions: permessage-deflate
+25/05/2017 19:44:43>  header Sec-WebSocket-Key: HOvUb8hUfRX1YZYM1y8JQg==
+25/05/2017 19:44:43>  header DNT: 1
+25/05/2017 19:44:43>  header Connection: keep-alive, Upgrade
+25/05/2017 19:44:43>  header Pragma: no-cache
+25/05/2017 19:44:43>  header Cache-Control: no-cache
+25/05/2017 19:44:43>  header Upgrade: websocket
+25/05/2017 19:44:43>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:44:43>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:44:43>  Upgrade: websocket
+
+25/05/2017 19:44:43>  Connection: Upgrade
+
+25/05/2017 19:44:43>  Sec-WebSocket-Accept: L4Aq8+VBjB5PEj45Rc80uWkdXOo=
+
+25/05/2017 19:46:01>  Shutting down server ...... websocket
+removing /home/sergio/programmi/c++11/VSOP/pirates/webroot/lock
+
+25/05/2017 19:46:01>  websocket daemon 29140 running .... 
+
+25/05/2017 19:46:01>  websocket starting up .... 
+25/05/2017 19:46:01>  Server listening and accepting connections ..
+
+25/05/2017 19:46:01>  Handshake su socket 8
+
+25/05/2017 19:46:01>  From 151.65.175.203 59318 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:46:01>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:46:01>  header User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:53.0) Gecko/20100101 Firefox/53.0
+25/05/2017 19:46:01>  header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+25/05/2017 19:46:01>  header Accept-Language: en-US,en;q=0.5
+25/05/2017 19:46:01>  header Accept-Encoding: gzip, deflate
+25/05/2017 19:46:01>  header Sec-WebSocket-Version: 13
+25/05/2017 19:46:01>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:46:01>  header Sec-WebSocket-Extensions: permessage-deflate
+25/05/2017 19:46:01>  header Sec-WebSocket-Key: hdmFXuLT1Qto22l4GDCEgA==
+25/05/2017 19:46:01>  header DNT: 1
+25/05/2017 19:46:01>  header Connection: keep-alive, Upgrade
+25/05/2017 19:46:01>  header Pragma: no-cache
+25/05/2017 19:46:01>  header Cache-Control: no-cache
+25/05/2017 19:46:01>  header Upgrade: websocket
+25/05/2017 19:46:01>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:46:01>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:46:01>  Upgrade: websocket
+
+25/05/2017 19:46:01>  Connection: Upgrade
+
+25/05/2017 19:46:01>  Sec-WebSocket-Accept: InakXPDIN4eAuv+UOYTxREd6r7I=
+
+25/05/2017 19:46:02>  Handshake su socket 10
+
+25/05/2017 19:46:02>  From 151.65.175.203 59319 "GET /?document_root=/var/sites/baldoweb/pirates HTTP/1.1"
+25/05/2017 19:46:02>  header Host: ws.baldoweb.it:8100
+25/05/2017 19:46:02>  header Connection: Upgrade
+25/05/2017 19:46:02>  header Pragma: no-cache
+25/05/2017 19:46:02>  header Cache-Control: no-cache
+25/05/2017 19:46:02>  header Upgrade: websocket
+25/05/2017 19:46:02>  header Origin: http://pirates.baldoweb.it
+25/05/2017 19:46:02>  header Sec-WebSocket-Version: 13
+25/05/2017 19:46:02>  header User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/58.0.3029.110 Chrome/58.0.3029.110 Safari/537.36
+25/05/2017 19:46:02>  header Accept-Encoding: gzip, deflate, sdch
+25/05/2017 19:46:02>  header Accept-Language: it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4
+25/05/2017 19:46:02>  header Sec-WebSocket-Key: RXRSKr6RgSRtP4NATTnE6w==
+25/05/2017 19:46:02>  header Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+25/05/2017 19:46:02>  url : /?document_root=/var/sites/baldoweb/pirates
+
+25/05/2017 19:46:02>  HTTP/1.1 101 Switching Protocols
+
+25/05/2017 19:46:02>  Upgrade: websocket
+
+25/05/2017 19:46:02>  Connection: Upgrade
+
+25/05/2017 19:46:02>  Sec-WebSocket-Accept: EsDxMdYGlTC+/X4th5oMYQH9d+k=
+
+25/05/2017 19:46:09>  Shutting down server ...... websocket
+removing /home/sergio/programmi/c++11/VSOP/pirates/webroot/lock
+
