@@ -1,1 +1,39 @@
-build *.o *.so *.a  *.out *.log *.swp 
+# Cartelle di build
+build/
+bin/
+obj/
+
+# File oggetto, librerie e eseguibili
+*.o
+*.so
+*.a
+*.out
+*.exe
+
+# Log e temporanei
+*.log
+*.tmp
+*.swp
+*.bak
+*~
+
+# File di configurazione IDE
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+
+# File generati dal sistema
+.DS_Store
+Thumbs.db
+
+# File generati da CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Altri file temporanei di editor
+*.swp
+*.swo
